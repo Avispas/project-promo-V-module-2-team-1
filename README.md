@@ -46,14 +46,19 @@ npm run dev
 
 ## Autor
 
-- Angela Avila
-- Dianelys Martinez
-- Gabriela Pinto
-- Nadine Estrella
+- Angela Avila Lasanta
+- Dianelys Martinez Del Toro
+- Gabriela Pinto Vasquez
+- Nadine Estrella Vacas
 
 ## Contribuir
 
 ¡Contribuciones son bienvenidas! Si encuentras algún error o tienes ideas para mejorar el proyecto, siéntete libre de abrir un issue o enviar un pull request.
+
+## Saber más
+
+- Presentación: https://view.genial.ly/65afec192e55750014d5c73d/presentation-awsome-profile-cards 
+
 
 ## Licencia
 

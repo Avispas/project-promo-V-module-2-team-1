@@ -18,7 +18,7 @@ function handleClickPaletteOne() {
   articleDesign.classList.remove('paletteTwo', 'paletteThree');
 }
 
-function handleClickPaletteTwo() {
+function handleClickPaletteTwo(event) {
   articleDesign.classList.add('paletteTwo');
   articleDesign.classList.remove('paletteOne', 'paletteThree');
 }
@@ -51,6 +51,7 @@ function resetCard() {
   linkedinCard.href = `https://www.linkedin.com/`;
   gitCard.href = `https://github.com`;
 }
+
 
 function reset() {
   wholeForm.reset();
