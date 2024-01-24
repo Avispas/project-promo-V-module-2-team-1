@@ -13,4 +13,3 @@ import './colapsables.js';
 //     holeForm.reset();
 // };
 // resetButton.addEventListener('click', resetForm);
-
