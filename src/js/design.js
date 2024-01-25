@@ -57,6 +57,8 @@ function reset() {
   wholeForm.reset();
   resetCard();
 
-  localStorage.removeItem('AwesomeCard');
+  
 }
 resetButton.addEventListener('click', reset);
+
+localStorage.removeItem('AwesomeCard');
